@@ -1,0 +1,70 @@
+/* Main container */
+.containerr {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    padding: 20px;
+    max-width: 1300px;
+    margin: 0 auto;
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #f7f9fc;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Header styling */
+  .container h1 {
+    background-color: lightblue;
+    padding: 15px;
+    border-radius: 8px;
+    font-size: 1.8rem;
+    margin: 0 0 20px 0;
+  }
+  
+  /* Paragraph and hypothesis styling */
+  .container p {
+    margin: 10px 0;
+    font-size: 1rem;
+    color: #333;
+  }
+  
+  .container span {
+    font-weight: bold;
+    color: #0056b3;
+  }
+  
+  /* Study details section */
+  .container h3 {
+    margin: 20px 0 10px;
+    font-size: 1.4rem;
+    color: #007bff;
+  }
+  
+  .container h4 {
+    margin: 5px 0;
+    font-size: 1.1rem;
+    color: #555;
+  }
+  
+  /* Links */
+  .container a {
+    color: #007bff;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  .container a:hover {
+    text-decoration: underline;
+  }
+  
+  /* Application paragraph */
+  .container h2 {
+    margin-top: 20px;
+    font-size: 1.2rem;
+    color: #333;
+    background-color: #e9f5ff;
+    padding: 10px;
+    border-radius: 8px;
+  }
+  

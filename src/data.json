@@ -1,0 +1,117 @@
+[
+    {
+      "id": "1",
+      "label": "Pneumonia Detection Training",
+      "path": "SCIICON_2024/UseCase1/Pneumonia_Detection/DataSet/Training",
+      "images": [
+        "/USECASE2/image1.jpeg",
+        "/USECASE2/image2.jpeg",
+        "/USECASE2/image3.jpeg",
+        "/USECASE2/image4.jpeg",
+        "/USECASE2/image5.jpeg",
+        "/USECASE2/image6.jpeg",
+        "/USECASE2/image7.jpeg",
+        "/USECASE2/image8.jpeg",
+        "/USECASE2/image9.jpeg",
+        "/USECASE2/image10.jpeg",
+        "/USECASE2/image11.jpeg",
+        "/USECASE2/image12.jpeg",
+        "/USECASE2/image13.jpeg",
+        "/USECASE2/image14.jpeg",
+        "/USECASE2/image15.jpeg",
+        "/USECASE2/image16.jpeg",
+        "/USECASE2/image17.jpeg",
+        "/USECASE2/image18.jpeg",
+        "/USECASE2/image19.jpeg",
+        "/USECASE2/image20.jpeg"
+      ]
+    },
+    {
+      "id": "2",
+      "label": "Pneumonia Detection Testing",
+      "path": "SCIICON_2024/UseCase1/Pneumonia_Detection/DataSet/Testing",
+      "images": [
+        "image1.jpg",
+        "image2.jpg",
+        "image3.jpg",
+        "image4.jpg",
+        "image5.jpg",
+        "image6.jpg",
+        "image7.jpg",
+        "image8.jpg"
+      ]
+    },
+    {
+      "id": "3",
+      "label": "SMOTE Training",
+      "path": "SCIICON_2024/UseCase2/SMOTE/DataSet/Training",
+      "images": [
+        "/USECASE3/image1.jpeg",
+        "/USECASE3/image2.jpeg",
+        "/USECASE3/image3.jpeg",
+        "/USECASE3/image4.jpeg",
+        "/USECASE3/image5.jpeg",
+        "/USECASE3/image6.jpeg",
+        "/USECASE3/image7.jpeg",
+        "/USECASE3/image8.jpeg",
+        "/USECASE3/image9.jpeg",
+        "/USECASE3/image10.jpeg",
+        "/USECASE3/image11.jpeg",
+        "/USECASE3/image12.jpeg",
+        "/USECASE3/image13.jpeg",
+        "/USECASE3/image14.jpeg",
+        "/USECASE3/image15.jpeg",
+        "/USECASE3/image16.jpeg",
+        "/USECASE3/image17.jpeg",
+        "/USECASE3/image18.jpeg",
+        "/USECASE3/image19.jpeg",
+        "/USECASE3/image20.jpeg"
+      ]
+    },
+    {
+      "id": "4",
+      "label": "SMOTE Testing",
+      "path": "SCIICON_2024/UseCase2/SMOTE/DataSet/Testing",
+      "images": [
+        "image1.jpg",
+        "image2.jpg",
+        "image3.jpg",
+        "image4.jpg",
+        "image5.jpg",
+        "image6.jpg",
+        "image7.jpg",
+        "image8.jpg"
+      ]
+    },
+    {
+      "id": "5",
+      "label": "Image Quality Training",
+      "path": "SCIICON_2024/UseCase3/Image_Quality/DataSet/Training",
+      "images": [
+        "image1.jpg",
+        "image2.jpg",
+        "image3.jpg",
+        "image4.jpg",
+        "image5.jpg",
+        "image6.jpg",
+        "image7.jpg",
+        "image8.jpg"
+      ]
+    },
+    {
+      "id": "6",
+      "label": "Image Quality Testing",
+      "path": "SCIICON_2024/UseCase3/Image_Quality/DataSet/Testing",
+      "images": [
+        "image1.jpg",
+        "image2.jpg",
+        "image3.jpg",
+        "image4.jpg",
+        "image5.jpg",
+        "image6.jpg",
+        "image7.jpg",
+        "image8.jpg"
+      ]
+    }
+  ]
+  
